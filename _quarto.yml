@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+execute:
+    freeze: auto
+
+website:
+  title: "RFM 2026"
+  navbar:
+    background: primary
+    right:
+      - href: index.qmd
+        text: Home
+      - href: program.qmd
+        text: Program
+      - href: venue.qmd
+        text: Venue Information
+  page-footer: "Contact: [Oliver Lindemann](https://www.eur.nl/essb/people/oliver-lindemann), Erasmus University Rotterdam"
+
+format:
+  html:
+    theme: minty
+    css: styles.css
+    toc: true

@@ -1,0 +1,22 @@
+---
+pagetitle: "Home"
+title: "Response Force  Meeting 2026"
+# page-layout: full
+toc: false
+---
+
+::: {.lead}
+
+*Workshop on response force measurements for psychological research*
+
+::: {.centering .large}
+**September 7th & 8th 2026** <br/>
+**Erasmus University Rotterdam**
+:::
+:::
+
+
+![](https://www.eupedia.com/images/content/rotterdam-wide.jpg)
+
+The meeting aims to bring together researchers from various countries and disciplines to discuss the latest developments in response force measurements and to foster future collaboration. We look forward to welcoming you to Rotterdam in September 2026!
+
