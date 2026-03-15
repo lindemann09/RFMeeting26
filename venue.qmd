@@ -4,7 +4,7 @@ toc: false
 ---
 
 
-## Venue
+## Venue Information
 
 The workshop takes place on the [Woudestein campus](https://www.eur.nl/en/campus/locations/campus-woudestein) of the [Erasmus University Rotterdam](https://www.eur.nl/en). Detailed information on the location of the workshop will be provided in the coming months.
 

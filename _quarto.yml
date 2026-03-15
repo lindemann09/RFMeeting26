@@ -13,7 +13,7 @@ website:
       - href: program.qmd
         text: Program
       - href: venue.qmd
-        text: Venue Information
+        text: Venue
   page-footer: "Contact: [Oliver Lindemann](https://www.eur.nl/essb/people/oliver-lindemann), Erasmus University Rotterdam"
 
 format:
