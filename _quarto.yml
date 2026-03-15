@@ -10,8 +10,6 @@ website:
   navbar:
     background: primary
     right:
-      - href: index.qmd
-        text: Home
       - href: program.qmd
         text: Program
       - href: venue.qmd
