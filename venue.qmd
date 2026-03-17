@@ -6,8 +6,11 @@ toc: false
 
 ## Venue Information
 
-The workshop takes place on the [Woudestein campus](https://www.eur.nl/en/campus/locations/campus-woudestein) of the [Erasmus University Rotterdam](https://www.eur.nl/en). Detailed information about the location of the workshop will be provided in the coming months.
+The workshop takes place in the Mandeville building on the [Woudestein campus](https://www.eur.nl/en/media/2024-12-230794campusplattegrondv6) 
+of the [Erasmus University Rotterdam](https://www.eur.nl/en). 
 
+Building: **Mandeville** <br/>
+Room: **T13-67** (13th floor)
 
 ### Street Address
 
@@ -18,6 +21,5 @@ Burgemeester Oudlaan 50<br/>
 
 
 ```{=html}
-
 <iframe width="100%" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=4.523792266845704%2C51.913567499362514%2C4.528545141220094%2C51.91800800965483&amp;layer=mapnik&amp;marker=51.91579111827799%2C4.526163339614868" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=51.915791&amp;mlon=4.526163#map=17/51.915788/4.526169">View Larger Map</a></small>
 ```
