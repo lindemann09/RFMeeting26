@@ -6,10 +6,9 @@ toc: false
 
 ## Venue Information
 
-The workshop takes place in the Mandeville building on the [Woudestein campus](https://www.eur.nl/en/media/2024-12-230794campusplattegrondv6) 
-of the [Erasmus University Rotterdam](https://www.eur.nl/en). 
+The workshop takes place on the **Woudestein campus** of the [Erasmus University Rotterdam](https://www.eur.nl/en).
 
-Building: **Mandeville** <br/>
+Building: **Mandeville** ([campus map](https://www.eur.nl/en/media/2024-12-230794campusplattegrondv6)) <br/>
 Room: **T13-67** (13th floor)
 
 ### Street Address
