@@ -17,7 +17,7 @@ toc: false
 |  | 14:00 | *Olivier Capra, Université Catholique de Lille, France* </br> Bayesian approaches to Statistical Analysis of Force Data              |
 
 
-**15:30 - 17:30 Visit of the Erasmus Behavioural Lab and Practical session**
+**15:30 - 17:30 Visit of the *Erasmus Behavioural Lab* & practical session**
 
 ::: {.gray-text}
 18:30 Leisurely walk to restaurant (Starting Ibis Hotel Wijnhaven)</br>
