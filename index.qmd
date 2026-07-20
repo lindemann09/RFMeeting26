@@ -24,3 +24,9 @@ The meeting aims to bring together researchers from disciplines to discuss the l
 ::: {.large .centering}
 [Program](program.qmd)
 :::
+
+</br>
+
+::: {.footnotesize .centering}
+Contact: [Oliver Lindemann](https://www.eur.nl/essb/people/oliver-lindemann), Erasmus University Rotterdam
+:::

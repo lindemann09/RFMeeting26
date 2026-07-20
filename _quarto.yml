@@ -10,13 +10,13 @@ website:
   navbar:
     background: primary
     right:
-      - href: travelinfo.qmd
-        text: Travel Information
-      - href: venue.qmd
-        text: Venue
       - href: program.qmd
         text: Program
-  page-footer: "Contact: [Oliver Lindemann](https://www.eur.nl/essb/people/oliver-lindemann), Erasmus University Rotterdam"
+      - href: venue.qmd
+        text: Venue
+      - href: travelinfo.qmd
+        text: Travel Information
+  page-footer: ""
 
 format:
   html:
