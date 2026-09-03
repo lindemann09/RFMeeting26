@@ -7,6 +7,9 @@ toc: false
 # Monday 7. 9. 2026
 :::
 
+**Location**: Room T13-67 in the Mandeville building
+
+
 **10:00 – 15:00**   **Methodological Challenges and Open Issues in Force Data Analysis**
 
 |  |   |            |
@@ -28,6 +31,8 @@ toc: false
 ::: {.centering}
 # Tuesday 8. 9. 2026
 :::
+
+**Location**: Room T19-67 in the Mandeville building
 
 **9:30 – 12:30**   **From Data to Theory: Applications and Implications of Response Force Measurements in Research**
 
