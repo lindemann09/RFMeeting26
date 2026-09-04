@@ -3,7 +3,11 @@ pagetitle: "Program"
 toc: false
 ---
 
+
+
 ::: {.centering}
+*Link for online participation can be requested [via email](https://www.eur.nl/essb/people/oliver-lindemann).*
+
 # Monday 7. 9. 2026
 :::
 
