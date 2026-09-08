@@ -24,14 +24,6 @@ toc: false
 |  | 14:00 | *Olivier Capra, Université Catholique de Lille, France* </br> Bayesian approaches to Statistical Analysis of Force Data              |
 
 
-**15:30 - 17:30 Visit of the *Erasmus Behavioural Lab* & practical lab session**
-
-::: {.gray-text}
-18:30 Leisurely walk to restaurant (Starting Ibis Hotel Wijnhaven)</br>
-19:30 Dinner (Humphrey’s Restaurant, Otto Reuchlinweg)
-:::
-
-
 ::: {.centering}
 # Tuesday 8. 9. 2026
 :::
@@ -43,12 +35,12 @@ toc: false
 |  |   |            |
 |----------- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 |  | 9:30	| *Claudia Gianelli, University of Messina, Italy* </br> Grip force and beyond: complementary and alternative measures of cognitive dynamics |
-|  | 10:45	| *Martin Fischer, University of Potsdam, Germany* </br> Widening our Grasp of Cognition |
+|  | 10:45	| *Carlotta Zona & Martin H. Fischer, University of Potsdam, Germany* </br> Widening our Grasp of Cognition |
 |  | 12:30	| LUNCH BREAK |
 
 **13:00 – 14:30**
 **Coordination Meeting: Strategies, Collaborations and Grant Proposals**
 
-::: {.gray-text}
-15:00 Sightseeing Rotterdam
-:::
+**14:30 - 15:30 Visit of the *Erasmus Behavioural Lab* & practical lab session**
+
+
